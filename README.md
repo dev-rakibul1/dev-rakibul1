@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ### PROFESSIONAL SUMMARY
 MERN stack developer specializing in front-end development is adept at building responsive web applications from front to back.
