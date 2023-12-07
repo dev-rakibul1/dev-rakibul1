@@ -1,4 +1,4 @@
-#### Hi there 👋
+#### Hi I'm Rakibul Islam, 👋
 
 #### PROFESSIONAL SUMMARY
 Experienced MERN Stack Developer skilled in TypeScript, Mongoose, Express.js, React.js, Next.js and Node.js. Proven track record of delivering high-quality web applications, collaborating with teams, and staying updated with industry trends. Committed to staying up-to-date with the latest industry trends and technologies. Ready to leverage my expertise to drive innovation and achieve exceptional results for your organization.
